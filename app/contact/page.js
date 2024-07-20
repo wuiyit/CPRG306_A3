@@ -19,7 +19,7 @@ const page = () => {
                     
                     <textarea className='p-3 my-5' placeholder='Message'></textarea>
                 </div>
-                <button className='bg-blue-500 text-white p-3 rounded-lg mt-5'>Submit</button>
+                <button className='bg-blue-400 text-white p-3 rounded-lg mt-5'>Submit</button>
 
             </form>
             </div>
